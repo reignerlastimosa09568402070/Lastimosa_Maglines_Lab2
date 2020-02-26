@@ -108,7 +108,7 @@ public class CalcuTest {
 							System.out.println("You entered an invalid number");
 			
 							
-							System.out.println("Wanna Try again? Click [1] for Yes and [2] for No");
+							
 												
 				}
 					
